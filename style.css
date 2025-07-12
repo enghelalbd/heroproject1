@@ -48,7 +48,8 @@
 }
 
 .btn:hover{
-    background-color: #47f3ff;
+    background-color: #ffa233
+
 }
 
 /*  Banner CSS */
@@ -78,7 +79,8 @@
 }
 
 .banner-btn:hover{
-    background-color: #47f3ff;
+    background-color: #ffa233
+
 }
 /* Main Margin */
 .main{
@@ -126,7 +128,8 @@
 }
 
 .action-btn:hover {
-  background-color: #47f3ff;
+  background-color: #ffa233
+
 }
 
 .action-image img {
@@ -288,8 +291,10 @@
 }
 
 .focus-btn:hover {
-  background-color: #47f3ff;
+  background-color: #ffa233
+
 }
+
 
 .focus-image {
   max-width: 78%;
@@ -351,7 +356,8 @@
 }
 
 .contact-btn:hover {
-  background-color: #110cb1;
+  background-color: #ffa233
+
 }
 
 /*Footer CSS */
